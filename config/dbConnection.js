@@ -5,7 +5,7 @@ const connectionPool = mysql.createPool({
     connectionLimit: 10,
     host: 'localhost',
     user: 'root',
-    password: 'Photon@123',
+    password: '*********',
     database: 'user_database'
 });
 
